@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @njnelso
-- 👀 I’m interested in DevOps, Cloud Computing, and Data Engineering
+- 👀 I’m interested in Software Development, DevOps, Cloud Technology
 - 🌱 I’m currently learning Python, MySQL
-- 💞️ I’m looking to collaborate on...
+- 💞️ I’m looking to collaborate on whatever projects sound interesting
 - 📫 How to reach me nicholasjnelson96@gmail.com
 
 <!---

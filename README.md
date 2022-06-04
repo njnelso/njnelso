@@ -7,9 +7,9 @@
           - LinkedIn Account: www.linkedin.com/in/nicholas-nelson-71a641a8
 
 
-<!--START:waka-->
+<!--START_SECTION:waka-->
 
-<!--END:waka-->
+<!--END_SECTION:waka-->
 
 <figure><embed src="https://wakatime.com/share/@1c9dc58e-2fe1-4cd7-98ae-cea240f491b6/2667f0ab-4d6d-41eb-810a-ad32d4632398.svg"></embed></figure>
 

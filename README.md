@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick!
 - 👀 I’m interested in TECHNOLOGY >patrick_we_have_technology.gif
-- 🌱 I’m currently learning BASH, Javascript, Java, MySQL
+- 🌱 I’m currently learning BASH, Python, Javascript, Java, MySQL
 - 💞️ I’m looking to collaborate on whatever projects sound interesting
 - 📫 How to reach me nicholasjnelson96@gmail.com
 - 💻 Codewars Profile: https://www.codewars.com/users/njnelso

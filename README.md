@@ -5,4 +5,4 @@
 - 📫 How to reach me nicholasjnelson96@gmail.com
 - 💻 picoCTF Profile: https://play.picoctf.org/users/njnelso 
           - Codewars Profile: https://www.codewars.com/users/njnelso
-          - LinkedIn Account: www.linkedin.com/in/nicholas-nelson-71a641a8
+          - LinkedIn Account: www.linkedin.com/in/nicholasjefferynelson

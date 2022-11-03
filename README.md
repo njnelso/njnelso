@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick!
 - 👀 I’m interested in TECHNOLOGY >patrick_we_have_technology.gif
-- 🌱 I’m currently learning BASH, Python, (and to a lesser extent) Javascript, Java, MySQL
+- 🌱 I’m currently learning BASH, Python, HTML/CSS, JavaScript, Java, MySQL
 - 💞️ I’m looking to collaborate on whatever projects sound interesting
 - 📫 How to reach me nicholasjnelson96@gmail.com
 - 💻 picoCTF Profile: https://play.picoctf.org/users/njnelso 
